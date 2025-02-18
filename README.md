@@ -2,9 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Hello%20I'm%20Makhai92&animation=fadeIn&fontColor=ffffff&fontSize=60" />
     </div>
     <div align= "center"> 
-
-        <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-        
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello, I'm David </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 꾸준하고 열심히하는 개발자 </div> 
     </div>
