@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello, I'm David </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 꾸준하고 열심히하는 개발자 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 이제는 취미로하는 개발자 </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
